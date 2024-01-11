@@ -1,4 +1,5 @@
 #include <stdio.h>
+// add a comment
 
 int main () {
     int d1, d2, d3, d4, d5, d6;
