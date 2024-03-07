@@ -1,2 +1,3 @@
-#The the learning record in NCKU
-#Programming language: C
+The the learning record in NCKU
+
+Programming language: C
